@@ -1,18 +1,32 @@
 body{
-    background-color:hsla(220, 50%, 79%);
-    margin: 0px;
-    color:blue;
-    background-image:url("../images/x.jpeg");
+    background-color:rgba(153, 182, 47, 0.726);
+    margin: 100px;
+    color:rgba(150, 150, 100, 0.5);
+    background-image: url(../Images/ye.png); 
+    background-size:inherit;
+    font-size: 150px;
+    font-style: italic;
+    background-repeat:repeat-x
+    
+    b
 }
-img{
-    width:500px;
-    height:450px;
-}
-div{
+/*img{
+    width:0px;
+    height:0px;
+}*/
+/*div{
     width:400px;
     height:200px;
     background-color: rgba(20,100,80, 1);
     margin:40px;
     border-top-left-radius: 10px;
     background-image:url("../Images/y.jpeg");
+}*/
+
+h1{
+font-size: 99px;
+color: #000;
+}
+a{
+    color: black;
 }
